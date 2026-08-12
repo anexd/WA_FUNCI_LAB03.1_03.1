@@ -29,7 +29,6 @@ jobs:
         with:
           context: ./
           push: true
-          # dockerfile: ./Dockerfile
           tags: rayanesilva2016/webacademy:latest
 
   deploy:
